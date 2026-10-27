@@ -19,9 +19,9 @@ const int baud = 115200;  // Baud rate for EG25-G communication
 
 const char *NODE_ID = "10b50893b65c4c2187194c4f937bd481";
 
-const char *mqttUser = "synapsis";
-const char *mqttPass = "Rasp8266!";
-const char *mqttHost = "mqtt-nearon.synapsis.id";
+const char *mqttUser = "";
+const char *mqttPass = "";
+const char *mqttHost = "";
 const int mqttPort = 32100;
 
 // MQTT Topics - These will be built dynamically using NODE_ID
