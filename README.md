@@ -1,6 +1,7 @@
 # GPS EG25-G Tracker
 
 A GPS tracker system using an ESP32 and a Quectel EG25-G module for vehicle location monitoring, featuring online/offline capabilities.
+<img width="462" height="743" alt="image" src="https://github.com/user-attachments/assets/b2c465ac-364f-4899-98a3-db792964c260" />
 
 ## Main Features
 
